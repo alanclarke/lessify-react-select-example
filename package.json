@@ -1,0 +1,18 @@
+{
+  "name": "lessify-react-select",
+  "version": "1.0.0",
+  "description": "an example of how to consume less files programmatically",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "none",
+  "dependencies": {
+    "react": "^0.13.3",
+    "react-select": "jedwatson/react-select"
+  },
+  "devDependencies": {
+    "lessify": "^1.0.1"
+  }
+}
